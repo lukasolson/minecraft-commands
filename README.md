@@ -1,4 +1,4 @@
-# minecraft-commands
+# Minecraft Commands
 
 This is just a little website to make it easier for my 5-year-old son to copy common commands in Minecraft.
 
