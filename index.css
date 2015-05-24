@@ -1,0 +1,14 @@
+body {
+	background: url("assets/background.png");
+}
+
+div {
+	display: inline-block;
+	margin: 1em;
+	border: 5px solid lime;
+	cursor: pointer;
+}
+
+div.acknowledged {
+	border: 5px solid red;
+}
